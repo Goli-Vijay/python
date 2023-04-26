@@ -1,0 +1,6 @@
+Name,Gender,Age,Salary
+James,male,30,20000
+Kumar,male,50,NaN
+Laxman,NaN,NaN,NaN
+Rani,female,25,NaN
+Prem ,male,NaN,50000
